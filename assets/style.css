@@ -42,7 +42,9 @@ body {
   min-height: 100vh;
 }
 
-a { color: inherit; }
+a { 
+  color: inherit; 
+}
 
 .wrap {
   max-width: 980px;
