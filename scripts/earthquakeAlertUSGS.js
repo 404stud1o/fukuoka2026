@@ -1,6 +1,6 @@
 const QUAKE_CENTER = { lat: 33.5912646, lon: 130.3986278 };
 const QUAKE_CENTER_NAME = "Akasaka, Fukuoka";
-const QUAKE_RADIUS_KM = 180;
+const QUAKE_RADIUS_KM = 300;
 const QUAKE_MIN_MAG = 1.5;
 const QUAKE_DAYS = 28;
 
